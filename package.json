@@ -1,0 +1,13 @@
+{
+  "name": "node_converted_app",
+  "version": "1.0.0",
+  "description": "Aplicação convertida do Python/Streamlit para Node.js/Express, mantendo lógica e nomes de funções/variáveis",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "axios": "^1.3.4"
+  }
+}
